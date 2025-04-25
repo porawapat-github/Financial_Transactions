@@ -36,7 +36,7 @@ src/
 ### ข้อกำหนดเบื้องต้น
 
 - Node.js (เวอร์ชัน 14 หรือสูงกว่า)
-- npm หรือ yarn
+- npm
 
 ### ติดตั้ง Dependencies
 
@@ -78,4 +78,4 @@ npm run build
 - **State Management**: Pinia
 - **Routing**: Vue Router
 - **Backend**: Node.js
-- **Programming Language**: JavaScript/TypeScript
+- **Programming Language**: JavaScript
