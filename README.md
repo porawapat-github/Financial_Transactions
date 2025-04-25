@@ -1,4 +1,4 @@
-# Pre-test Clicknext Banking System
+# Pre-test Banking System
 
 ระบบจำลองการทำธุรกรรมทางการเงินพื้นฐาน พัฒนาด้วย Vue 3 + Vite
 
